@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/status_em_preparo"
+        android:title="@string/em_preparo" />
+    <item
+        android:id="@+id/status_em_rota"
+        android:title="@string/em_rota" />
+    <item
+        android:id="@+id/status_finalizado"
+        android:title="@string/finalizado" />
+</menu>
